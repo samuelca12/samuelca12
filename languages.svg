@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="508" height="224" viewBox="0 0 508 224">
+  <rect width="508" height="224" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="24" y="36" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600">Most Used Languages</text>
+  <clipPath id="bar"><rect x="24" y="50" width="460" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="24.0" y="50" width="358.5" height="8" fill="#e34c26"/>
+    <rect x="382.5" y="50" width="39.4" height="8" fill="#DAE1C2"/>
+    <rect x="421.9" y="50" width="24.0" height="8" fill="#563d7c"/>
+    <rect x="445.9" y="50" width="16.7" height="8" fill="#3572A5"/>
+    <rect x="462.6" y="50" width="11.5" height="8" fill="#f1e05a"/>
+    <rect x="474.1" y="50" width="4.6" height="8" fill="#e4cc98"/>
+    <rect x="478.7" y="50" width="3.4" height="8" fill="#adb2cb"/>
+    <rect x="482.1" y="50" width="2.0" height="8" fill="#f34b7d"/>
+  </g>
+  <g transform="translate(24,82)">
+    <circle cx="5" cy="0" r="5" fill="#e34c26"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">HTML <tspan fill="#8b949e">77.7%</tspan></text>
+  </g>
+  <g transform="translate(254,82)">
+    <circle cx="5" cy="0" r="5" fill="#DAE1C2"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">SystemVerilog <tspan fill="#8b949e">8.5%</tspan></text>
+  </g>
+  <g transform="translate(24,110)">
+    <circle cx="5" cy="0" r="5" fill="#563d7c"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">CSS <tspan fill="#8b949e">5.2%</tspan></text>
+  </g>
+  <g transform="translate(254,110)">
+    <circle cx="5" cy="0" r="5" fill="#3572A5"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Python <tspan fill="#8b949e">3.6%</tspan></text>
+  </g>
+  <g transform="translate(24,138)">
+    <circle cx="5" cy="0" r="5" fill="#f1e05a"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">JavaScript <tspan fill="#8b949e">2.5%</tspan></text>
+  </g>
+  <g transform="translate(254,138)">
+    <circle cx="5" cy="0" r="5" fill="#e4cc98"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Tcl <tspan fill="#8b949e">1.0%</tspan></text>
+  </g>
+  <g transform="translate(24,166)">
+    <circle cx="5" cy="0" r="5" fill="#adb2cb"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">VHDL <tspan fill="#8b949e">0.7%</tspan></text>
+  </g>
+  <g transform="translate(254,166)">
+    <circle cx="5" cy="0" r="5" fill="#f34b7d"/>
+    <text x="16" y="4" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">C++ <tspan fill="#8b949e">0.4%</tspan></text>
+  </g>
+</svg>
